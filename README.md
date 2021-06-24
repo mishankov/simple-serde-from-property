@@ -1,0 +1,1 @@
+# simple-serde-from-property
